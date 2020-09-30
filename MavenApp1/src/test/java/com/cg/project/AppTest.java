@@ -26,7 +26,8 @@ public class AppTest
 			}
 	@Test
 	public void test4() {
-		System.out.println("test5");
+		//System.out.println("test5");
+		fail();
 	}
 		
 }
